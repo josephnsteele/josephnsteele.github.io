@@ -1,0 +1,28 @@
+
+			
+			@font-face {	font-family:"Emblema One";
+							src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff"), 
+								 url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf");
+						} 
+
+			body {
+				background-color: #ff8c08;
+				margin-left: 10%;
+				margin-right: 10%;
+				border: 2px dotted black;
+				padding: 10px 10px 10px 10px;
+				font-family: Arial, sans-serif;
+				font-size: large;
+				}
+
+			p{	color:black; }
+
+			h3{border-bottom:3px solid gray;
+				font-family: "Emblema One", sans-serif;
+				font-size: 140%;}
+
+			h6{	font-family: Arial, sans-serif;
+				font-size: 60%;}
+
+			p.joesNotes {color:green}
+
